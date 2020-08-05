@@ -6,7 +6,7 @@
 
 I’m a full-stack software engineer with a specialization in JavaScript. I am passionate about applying critical thinking skills to solve problems and challenging myself to learn and implement new technology strategies. I have experience working collaboratively with other engineers to build modern and intuitive solutions that help businesses succeed.
 
-My tech stack and background includes JavaScript, React, Node.js, Express, MySQL, MariaDB, PostgreSQL, Sequelize, MongoDB, Mongoose, Cassandra, Redis, AWS EC2/S3 and more. While I am continuing to enhance my software engineering skills and learn new ones I am seeking full-time employment.
+My tech stack and background includes JavaScript, React, Node.js, Express, MySQL, MariaDB, PostgreSQL, Sequelize, MongoDB, Mongoose, Cassandra, Redis, AWS EC2/S3 and more. While I am continuing to enhance my software engineering skills and learn new ones, I am seeking full-time employment.
 
 Enjoy some of the projects I've been working on recently:
 - __[Cancer Cookbook](https://github.com/mztaylor7/cancer-cookbook)__: A full-stack virtual cookbook app designed to provide a smooth and organic recipe searching experience.

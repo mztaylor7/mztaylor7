@@ -15,7 +15,7 @@ Enjoy some of the projects I've been working on recently:
 
 About me:
 - 🔭 I’m currently working on __[Cancer Cookbook](https://github.com/mztaylor7/cancer-cookbook)__.
-- 🌱 I’m currently learning __C#/.NET__.
+- 🌱 I’m currently learning __Redux__.
 - 👯 I’m looking to collaborate on almost anything. I would love to provide my expertise on any project that you have in mind!
 - 💬 Ask me about what I can do for you!
 - 📫 How to reach me: __michael.z.taylor7@gmail.com__

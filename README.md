@@ -22,7 +22,7 @@ About me:
 - ⚡ Fun fact: I really love cooking and the process of discovering, making and enjoying recipes!
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mztaylor7&count_private=true&show_icons=true&theme=dracula)]
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mztaylor7&count_private=true&show_icons=true&theme=dracula)
 
 <!--
 **mztaylor7/mztaylor7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

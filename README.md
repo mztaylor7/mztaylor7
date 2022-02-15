@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-taylor7/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zayers.dev@gmail.com)
 
-I’m a full-stack senior software engineer with a specialization in JavaScript, PHP, Node and Magento. I am passionate about applying critical thinking skills to solve problems and challenging myself to continuously learn and implement new technology strategies.
+I’m a senior full-stack software engineer with a specialization in JavaScript, PHP, Node and Magento. I am passionate about applying critical thinking skills to solve problems and challenging myself to continuously learn and implement new technology strategies.
 
 My tech stack and background includes JavaScript, React, Node.js, Express, Elm, Clojure, PHP, Magento, MySQL, MariaDB, PostgreSQL, Sequelize, MongoDB, Mongoose, Cassandra, Redis, AWS and more.
 
